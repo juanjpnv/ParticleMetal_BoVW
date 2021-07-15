@@ -12,7 +12,7 @@ Espaço para inserir a citação em latex
 '''
 
 # Bag Of Visual Words
-Explicação sobre o método
+![plot](./BoVW_fluxogramaMeu.png)
 
 # Base de dados
 Utilizamos a base de dados Synthetic SEM Images of Powder Materials disponibilizada gratuitamente pelos autores. Se deseja utilizar a base de dados refira-se ao artigo original.
