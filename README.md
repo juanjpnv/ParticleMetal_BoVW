@@ -24,5 +24,4 @@ Artigo da base de dados: [A large dataset of synthetic SEM images of powder mate
 Todo este repositório, incluindo códigos, notebooks, imagens, arquivos e etc. está sobre a licensa GPLv3.
 
 # ToDo
-[ ] Adicionar o notebook com o método.
-[ ] Adicionar explicação sobre o BoVW.
+- [ ] Adicionar explicação sobre o BoVW.
