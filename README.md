@@ -3,13 +3,13 @@ Codificação em python do método Bag of Visual Words para classificação de i
 
 # Cite
 Se este código lhe foi util de alguma forma, por favor, cite o seguinte artigo
-'''
+```
 Espaço para inserir a citação em ABNT
-'''
+```
 
-'''
+```
 Espaço para inserir a citação em latex
-'''
+```
 
 # Bag Of Visual Words
 ![plot](./BoVW_fluxogramaMeu.png)
