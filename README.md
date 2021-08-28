@@ -4,14 +4,16 @@ Codificação em python do método Bag of Visual Words para classificação de i
 # Cite
 Se este código lhe foi util de alguma forma, por favor, cite o seguinte artigo
 ```
-Espaço para inserir a citação em ABNT
+Após publicado, aqui estará a citação em formato ABNT
 ```
 
 ```
-Espaço para inserir a citação em latex
+Após publicado, aqui estará a citação em formato BibTex
 ```
 
-# Bag Of Visual Words
+# Bag Of Visual Words (BoVW)
+O BoVW é um método de extração de características composto, que consiste em usar um extrator mais simples (SIFT, ORB, SURF, LBP, ou outro a sua escolha) e um método de agrupamento (K-Mean, KNNClustering, ou outro). Cada características extraída é considerada uma "palavra visual" e o método de agrupamento é usado para gerar um "dicionário de palavras visuais".
+
 ![plot](./BoVW_fluxogramaMeu.png)
 
 # Base de dados
@@ -22,6 +24,3 @@ Artigo da base de dados: [A large dataset of synthetic SEM images of powder mate
 
 # Licensa
 Todo este repositório, incluindo códigos, notebooks, imagens, arquivos e etc. está sobre a licensa GPLv3.
-
-# ToDo
-- [ ] Adicionar explicação sobre o BoVW.
