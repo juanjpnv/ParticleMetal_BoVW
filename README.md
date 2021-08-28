@@ -15,7 +15,9 @@ Após publicado, aqui estará a citação em formato BibTex
 O BoVW é um método de extração de características composto, que consiste em usar um extrator mais simples (SIFT, ORB, SURF, LBP, ou outro a sua escolha) e um método de agrupamento (K-Mean, KNNClustering, ou outro). Cada características extraída é considerada uma "palavra visual" e o método de agrupamento é usado para gerar um "dicionário de palavras visuais".
 
 > Esquema básico do BoVW
+> 
 > ![plot](./BoVW_fluxogramaMeu.png)
+> 
 > Fonte: [Link pro artigo publicado no POSMEC](). Baseado na imagem presente em [L. Fei-Fei; P. Perona](https://ieeexplore.ieee.org/document/1467486)
 
 # Base de dados
