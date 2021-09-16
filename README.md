@@ -2,7 +2,7 @@
 Codificação em python do método Bag of Visual Words para classificação de imagens de metal particulado, baseado no artigo de DeCost e Holm.
 
 Os resultados podem ser vistos na matriz de confusão
-> ![plot](./BoVW_fluxogramaMeu.png)
+> ![plot](./Cinzas_SemOtimizacao_teste.png)
 
 # Cite
 Se parte do código ou das imagens deste repositório lhe foi util de alguma forma, por favor, cite o seguinte artigo
