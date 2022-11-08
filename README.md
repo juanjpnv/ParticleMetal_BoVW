@@ -21,7 +21,7 @@ O BoVW é um método de extração de características composto, que consiste em
 > 
 > ![plot](./BoVW_fluxogramaMeu.png)
 > 
-> Fonte: [Link pro artigo publicado no POSMEC](). Baseado na imagem presente em [L. Fei-Fei; P. Perona](https://ieeexplore.ieee.org/document/1467486)
+> Fonte: [Link pro artigo publicado](). Baseado na imagem presente em [L. Fei-Fei; P. Perona](https://ieeexplore.ieee.org/document/1467486)
 
 # Base de dados
 Utilizamos a base de dados Synthetic SEM Images of Powder Materials disponibilizada gratuitamente pelos autores. Se deseja utilizar a base de dados refira-se ao artigo original.
