@@ -6,12 +6,23 @@ Os resultados podem ser vistos na matriz de confusão
 
 # Cite
 Se parte do código ou das imagens deste repositório lhe foi util de alguma forma, por favor, cite o seguinte artigo
-```
-VALE, Juan Pablo do Nascimento; MACHADO, Christian Prado dos Santos; FILHO, ALEX OLIVEIRA BARRADAS. CARACTERIZAÇÃO DE METAL PARTICULADO USANDO BAG OF VISUAL WORDS.. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Anais...Diamantina(MG) Online, 2023. Disponível em: https//www.even3.com.br/anais/cobicet2023/627712-CARACTERIZACAO-DE-METAL-PARTICULADO-USANDO-BAG-OF-VISUAL-WORDS.
-```
+
+VALE, Juan Pablo do Nascimento; MACHADO, Christian Prado dos Santos; FILHO, ALEX OLIVEIRA BARRADAS. Caracterização de Metal Particulado Usando Bag of Visual Words.. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Anais...Diamantina(MG) Online, 2023. Disponível em: https://www.even3.com.br/anais/cobicet2023/627712-caracterizacao-de-metal-particulado-usando-bag-of-visual-words.
+
 
 ```
-Após publicado, aqui estará a citação em formato BibTex
+@inproceedings{Vale_Machado_Filho_2023,
+	title={Caracterização de Metal Particulado Usando Bag of Visual Words}, 
+  volume={4}, 
+  ISSN={2764-0582}, 
+  url={https://www.even3.com.br//anais/cobicet2023/627712-caracterizacao-de-metal-particulado-usando-bag-of-visual-words}, 
+  abstractNote={Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia (2764-0582) - Caracterização De Metal Particulado Usando Bag Of Visual Words}, 
+  booktitle={Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia}, 
+  author={Vale, Juan Pablo do Nascimento and Machado, Christian Prado dos Santos and Filho, Alex Oliveira Barradas}, 
+  year={2023}, 
+  month={Aug}, 
+  pages={6} 
+}
 ```
 
 # Bag Of Visual Words (BoVW)
@@ -21,7 +32,7 @@ O BoVW é um método de extração de características composto, que consiste em
 > 
 > ![plot](./BoVW_fluxogramaMeu.png)
 > 
-> Fonte: [Link pro artigo publicado](ttps//www.even3.com.br/anais/cobicet2023/627712-CARACTERIZACAO-DE-METAL-PARTICULADO-USANDO-BAG-OF-VISUAL-WORDS). Baseado na imagem presente em [L. Fei-Fei; P. Perona](https://ieeexplore.ieee.org/document/1467486)
+> Fonte: [Link pro artigo publicado](https://www.even3.com.br/anais/cobicet2023/627712-caracterizacao-de-metal-particulado-usando-bag-of-visual-words/). Baseado na imagem presente em [L. Fei-Fei; P. Perona](https://ieeexplore.ieee.org/document/1467486)
 
 # Base de dados
 Utilizamos a base de dados Synthetic SEM Images of Powder Materials disponibilizada gratuitamente pelos autores. Se deseja utilizar a base de dados refira-se ao artigo original.
