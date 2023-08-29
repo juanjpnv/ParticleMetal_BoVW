@@ -7,7 +7,7 @@ Os resultados podem ser vistos na matriz de confusão
 # Cite
 Se parte do código ou das imagens deste repositório lhe foi util de alguma forma, por favor, cite o seguinte artigo
 ```
-Após publicado, aqui estará a citação em formato ABNT
+VALE, Juan Pablo do Nascimento; MACHADO, Christian Prado dos Santos; FILHO, ALEX OLIVEIRA BARRADAS. CARACTERIZAÇÃO DE METAL PARTICULADO USANDO BAG OF VISUAL WORDS.. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Anais...Diamantina(MG) Online, 2023. Disponível em: https//www.even3.com.br/anais/cobicet2023/627712-CARACTERIZACAO-DE-METAL-PARTICULADO-USANDO-BAG-OF-VISUAL-WORDS.
 ```
 
 ```
@@ -21,7 +21,7 @@ O BoVW é um método de extração de características composto, que consiste em
 > 
 > ![plot](./BoVW_fluxogramaMeu.png)
 > 
-> Fonte: [Link pro artigo publicado](). Baseado na imagem presente em [L. Fei-Fei; P. Perona](https://ieeexplore.ieee.org/document/1467486)
+> Fonte: [Link pro artigo publicado](ttps//www.even3.com.br/anais/cobicet2023/627712-CARACTERIZACAO-DE-METAL-PARTICULADO-USANDO-BAG-OF-VISUAL-WORDS). Baseado na imagem presente em [L. Fei-Fei; P. Perona](https://ieeexplore.ieee.org/document/1467486)
 
 # Base de dados
 Utilizamos a base de dados Synthetic SEM Images of Powder Materials disponibilizada gratuitamente pelos autores. Se deseja utilizar a base de dados refira-se ao artigo original.
